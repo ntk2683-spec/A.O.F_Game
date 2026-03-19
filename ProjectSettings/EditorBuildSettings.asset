@@ -6,13 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Luvizi K/Refactor/Scenes/MainMenu.unity
+    path: Assets/Luvizi K/A.O.F/Scenes/MainMenu.unity
     guid: 13526cb8cd8a2c940b3ab3afe3cf7f83
   - enabled: 1
-    path: Assets/Luvizi K/Refactor/Scenes/World.unity
+    path: Assets/Luvizi K/A.O.F/Scenes/World.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Luvizi K/Refactor/Scenes/WinGame.unity
+    path: Assets/Luvizi K/A.O.F/Scenes/ChooseCharacter.unity
+    guid: a609919cbca921d41a9b688e83919b38
+  - enabled: 1
+    path: Assets/Luvizi K/A.O.F/Scenes/ChooseWeapon.unity
+    guid: d81a6d774754aa046b9a166ba7232822
+  - enabled: 1
+    path: Assets/Luvizi K/A.O.F/Scenes/ChooseSpecialSkill.unity
+    guid: dc6eddc04c46b8845b2b326c9470f812
+  - enabled: 1
+    path: Assets/Luvizi K/A.O.F/Scenes/WinGame.unity
     guid: a4b2da45f5f383c40a059a66ee3314ea
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 1f4afff15cd92674d999670b72dd7fca, type: 3}

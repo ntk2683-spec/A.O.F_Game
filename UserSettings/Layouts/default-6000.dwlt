@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 111
+  controlID: 103
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 50}
   m_MaxSize: {x: 8096, y: 8096}
   vertical: 0
-  controlID: 112
+  controlID: 104
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -1107,9 +1107,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.40832177, y: 0.8269888, z: 0.03642992}
+    m_Target: {x: -26.121664, y: 8.206552, z: -0.18101397}
     speed: 2
-    m_Value: {x: 0.40832177, y: 0.8269888, z: 0.03642992}
+    m_Value: {x: -26.121664, y: 8.206552, z: -0.18101397}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1159,9 +1159,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.3575053
+    m_Target: 28.101936
     speed: 2
-    m_Value: 6.3575053
+    m_Value: 28.101936
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1242,7 +1242,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Luvizi K/Refactor/Scripts/Player
+    - Assets/Luvizi K/A.O.F/Scripts/Player
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1252,16 +1252,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Luvizi K/Refactor/Scripts/Player
+  - Assets/Luvizi K/A.O.F/Scripts/Player
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\E.K_Game\E.K_Game
+  m_LastProjectPath: D:\A.O.F_Game\A.O.F_Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 302}
-    m_SelectedIDs: 8aaa0000
-    m_LastClickedID: 43658
-    m_ExpandedIDs: 0000000044a9000046a9000048a900004aa900004ca900004ea9000050a9000052a9000054a9000056a9000058a900005aa900005ca900005ea90000b0a90000fca9000076aa00007aaa0000
+    scrollPos: {x: 0, y: 63}
+    m_SelectedIDs: aaaa0000
+    m_LastClickedID: 43690
+    m_ExpandedIDs: 000000001caa00001eaa000020aa000022aa000024aa000026aa000028aa00002aaa00002caa00002eaa000030aa000032aa000034aa000036aa000038aa00003aaa00003caa00008eaa0000bcaa0000ceaa0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1290,7 +1290,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000044a9000046a9000048a900004aa900004ca900004ea9000050a9000052a9000054a9000056a9000058a900005aa900005ca900005ea90000
+    m_ExpandedIDs: 000000001caa00001eaa000020aa000022aa000024aa000026aa000028aa00002aaa00002caa00002eaa000030aa000032aa000034aa000036aa000038aa00003aaa00003caa0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1372,7 +1372,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f68dffff5a8effffb6cdffff9ccfffffb2e9ffff22eaffff84eaffffb2ebffffc4ecffffeaf8ffffe4ac000088b50000
+      m_ExpandedIDs: 9681ffff8089ffff169bffff3caaffff04abffffdcabffffe2acffff86c6ffffeec9fffff8ccffff20cffffff4d0ffff62d1ffffd0d1ffff50d3ffffe4d3ffff52d4ffffeed4ffff52d5ffffacd5ffff1cd6ffff7ed6ffff3ed7ffffb4d7ffff78e0ffff58e1ffffe4e3ffff80e4ffffc8e5ffffa8e6ffff5ce7ffff34e9ffff28eaffff1cedfffff0edffffa2eeffff32f2ffffb2f2ffffaaf4ffff14f5ffffbcf5ffff84f6ffffdef6ffff38f7ffffcafaffff58ac000062ac000078ac0000e4ac000052ae0000b0ae000032af000074af000008b000008ab00000aab10000ccb1000040b20000c2b2000004b300009ab300001cb4000002b50000ecb500006eb6000080bb0000f8be00007ac00000b2c00000dcc00000f2c00000e2c100001ec200003ac20000fcc60000a4c8000024c90000a4c90000acd40000b6d40000dcd40000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
